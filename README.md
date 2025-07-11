@@ -2,13 +2,13 @@
 
 This list is fed with free public proxies, updated every 5 minutes by scraping data from over 230 sources across the Internet to make access easier. Please note that I am not responsible for these proxies.
 
-Last Updated: `Friday 11-07-2025 11:38:04 UTC`
+Last Updated: `Friday 11-07-2025 11:48:25 UTC`
 
-- Total Proxies: `1644496`
-- http: `410925`
-- https: `413156`
-- Socks4: `409458`
-- Socks5: `410957`
+- Total Proxies: `1644579`
+- http: `411201`
+- https: `412896`
+- Socks4: `409671`
+- Socks5: `410811`
 
 
 ## DOWNLOAD WITH PROTOCOL
